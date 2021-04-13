@@ -9,8 +9,8 @@
     <div class="post-time">
       {{ postItem.createdAt }}
     </div>
-  </li></template
->
+  </li>
+</template>
 
 <script>
 export default {

@@ -8,9 +8,7 @@
           v-for="postItem in postItems"
           :key="postItem._id"
           :postItem="postItem"
-        >
-          <div></div>
-        </PostListItem>
+        ></PostListItem>
       </ul>
     </div>
   </div>
