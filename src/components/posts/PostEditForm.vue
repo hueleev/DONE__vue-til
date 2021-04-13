@@ -28,6 +28,7 @@
 
 <script>
 import { fetchPost, editPost } from '@/api/posts';
+
 export default {
   data() {
     return {
